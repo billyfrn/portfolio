@@ -1,5 +1,5 @@
 $(document).ready(function(){
   setTimeout(function(){
-    $('#bg-vid').pause();
+    $('#bg-vid').trigger('pause');
   },4000);
 })
