@@ -1,6 +1,6 @@
 $('#bg-vid').playbackRate = 0.5;
 
-$(document).load(function(){
+$(document).ready(function(){
   setTimeout(function(){
     $('#bg-vid').trigger('pause');
   },3000);
