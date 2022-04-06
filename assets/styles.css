@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap');
 * {box-sizing: border-box;}
 ::selection {background-color: #f6ad55;}
+html{scroll-behavior: smooth;}
 html,body{
   font-family:'Poppins',sans-serif;
   margin:0;
