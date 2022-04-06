@@ -33,12 +33,13 @@ h1 {
 
 @keyframes x {
   100% {
-    transform: translateX( calc(100vw - 200px) );
+    transform: translateX( calc(3px) );
+    transform: translateY( calc(5px) );
   }
 }
 
 @keyframes y {
   100% {
-    transform: translateY( calc(100vh - 200px) );
-  }
+    transform: translateX( calc(6px) );
+    transform: translateY( calc(4px) );
 }
