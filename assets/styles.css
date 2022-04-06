@@ -8,11 +8,11 @@ html,body{
   position: absolute;
   left: 0;
   top: 0;
-  z-index: -1;
 }
 h1 {
-    color: #fff;
-    font-size: 4em;
+  color: #fff;
+  font-size: 4em;
+  z-index:9;
 }
 .banner{
   background: #111;
