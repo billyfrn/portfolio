@@ -20,6 +20,7 @@ h1 {
 }
 h2{font-size: 2.5em;}
 b {color: #c49048;}
+.center{text-align:center;}
 .banner{
   background: #111;
   height: 100vh;
