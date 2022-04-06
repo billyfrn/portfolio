@@ -23,11 +23,11 @@ h1 {
   align-items: center;
   justify-content: center;
 }
-.tech-logos:nth-child(even) {
+.tech-logos img:nth-child(even) {
   animation: x 13s linear infinite alternate;
 }
 
-.tech-logos:nth-child(odd) {
+.tech-logos img:nth-child(odd) {
   animation: y 7s linear infinite alternate;
 }
 
