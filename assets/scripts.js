@@ -1,2 +1,2 @@
 
-$('#bg-vid').defaultPlaybackRate = .5;
+$('#bg-vid').defaultPlaybackRate = .1;
