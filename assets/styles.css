@@ -43,13 +43,14 @@ h1 {
 
 @keyframes x {
   100% {
-    transform: translateX( calc(3px) );
-    transform: translateY( calc(5px) );
+    transform: translateX(3px);
+    transform: translateY(5px);
   }
 }
 
 @keyframes y {
   100% {
-    transform: translateX( calc(6px) );
-    transform: translateY( calc(4px) );
+    transform: translateX(6px);
+    transform: translateY(4px);
+  }
 }
