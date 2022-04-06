@@ -1,2 +1,5 @@
-
-$('#bg-vid').defaultPlaybackRate = .1;
+$(document).ready(){
+  setTimout(function(){
+    $('#bg-vid').pause();
+  },4000);
+}
