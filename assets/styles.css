@@ -29,7 +29,8 @@ h2{font-size: 2.5em;}
   flex-direction: column;
 }
 .flex{display:flex;}
-.half{width:50%;}
+.sixty{width:60%;}
+.forty{width:40%;}
 .tech {text-align:center;}
 .tech-logos{
   display: flex;
