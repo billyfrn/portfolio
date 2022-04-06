@@ -33,7 +33,7 @@ h2{font-size: 2.5em;}
   max-width: 400px;
   margin: auto;
 }
-.tech-logos img {margin: 20px;width: 40px;height: auto;}
+.tech-logos img {margin: 22px;width: 40px;height: auto;}
 .tech-logos img:nth-child(even) {
   animation: x 1s linear infinite alternate;
 }
