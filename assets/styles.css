@@ -13,6 +13,7 @@ h1 {
   color: #fff;
   font-size: 4em;
   z-index:9;
+  max-width: 700px;
 }
 .banner{
   background: #111;
