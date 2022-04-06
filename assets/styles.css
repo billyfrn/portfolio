@@ -73,6 +73,8 @@ h2{font-size: 2.5em;}
   -webkit-animation: 1s infinite alternate x;
   animation: 1s infinite alternate x;
   padding: 32px;
+  position: absolute;
+  bottom: 60px;
 }
 .header__arrow:hover {
   text-decoration: none;
