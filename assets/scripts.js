@@ -1,5 +1,5 @@
-$(document).ready(function(){
+$(document).load(function(){
   setTimeout(function(){
     $('#bg-vid').trigger('pause');
-  },4000);
+  },3000);
 })
