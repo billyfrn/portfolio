@@ -106,7 +106,7 @@ b {color: #c49048;}
 .modal{
   height:0;
   width:0;
-  position:absolute;
+  position:fixed;
   left:0;
   top:0;
   overflow:hidden;
