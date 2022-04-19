@@ -112,8 +112,14 @@ b {color: #c49048;}
   overflow:hidden;
   transition:all ease-in-out .5s;
 }
-.modal.active{height:100vh;width:100vw;overflow:scroll;}
-
+.modal.active{background:#1b1b1b;height:100vh;width:100vw;overflow:scroll;}
+.close{
+  cursor:pointer;
+  position: absolute;
+  right: 19px;
+  top: 0px;
+  font-size: 3em;
+}
 @media only screen and (max-width:500px){
   .sixty {
     width: 100%;

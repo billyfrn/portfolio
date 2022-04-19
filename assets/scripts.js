@@ -11,3 +11,6 @@ $('.tile').on('click',function(){
   whatTile = $(this).data('id');
   $('.modal[data-id='+whatTile+']').addClass('active');
 })
+$('.close').on('click',function(){
+  $('.modal').removeClass('active');
+})
