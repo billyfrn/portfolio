@@ -8,6 +8,6 @@ $(document).ready(function(){
 })
 
 $('.tile').on('click',function(){
-  whatTile = $(this).data(id)
+  whatTile = $(this).data('id');
   $('.modal[data-id='+whatTile+']').addClass('active');
 })
