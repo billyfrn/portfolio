@@ -137,6 +137,8 @@ b {color: #c49048;}
 }
 .swiper-slide img {max-width:100%;}
 .x-pad{padding:2em;}
+.swiper-button-next, .swiper-button-prev{color:#fff!important;}
+
 @media only screen and (max-width:500px){
   .sixty {
     width: 100%;
