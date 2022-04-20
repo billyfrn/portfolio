@@ -79,7 +79,8 @@ b {color: #c49048;}
 
 @keyframes stretch {
   100% {
-    letter-spacing: 16px;
+    font-size:10.1em;
+    letter-spacing: 8px;
   }
 }
 
