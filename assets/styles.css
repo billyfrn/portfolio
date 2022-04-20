@@ -71,6 +71,7 @@ b {color: #c49048;}
   padding: 9px;
   cursor: pointer;
   transition:all ease-in-out .3s;
+  position:relative;
 }
 .tile:hover{
   color: #c49048;
