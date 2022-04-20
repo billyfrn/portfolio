@@ -24,6 +24,12 @@ h1 {
 }
 h2{font-size: 2.5em;}
 b {color: #c49048;}
+.swiper-slide a {
+  color: #c49048;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
 .center{text-align:center;}
 .banner{
   background: #111;
