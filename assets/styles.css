@@ -70,6 +70,17 @@ b {color: #c49048;}
   line-height: .9em;
   padding: 9px;
   cursor: pointer;
+  transition:all ease-in-out .3s;
+}
+.tile:hover{
+  color: #c49048;
+  animation: stretch .5s linear infinite alternate;
+}
+
+@keyframes stretch {
+  100% {
+    letter-spacing: 16px;
+  }
 }
 
 @keyframes x {
