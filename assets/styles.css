@@ -76,11 +76,15 @@ b {color: #c49048;}
   color: #c49048;
   animation: stretch .7s linear infinite alternate;
 }
+.tile::after {
+  content: '↝';
+  position: absolute;
+  right: 58px;
+}
 
 @keyframes stretch {
   100% {
-    font-size:10.1em;
-    letter-spacing: 3px;
+    letter-spacing: -1px;
   }
 }
 
