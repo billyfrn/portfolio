@@ -7,6 +7,10 @@ html,body{
   margin:0;
 }
 body{background: #282828;color:#fff;}
+.wrapper{
+  max-width: 1024px;
+  margin: auto;
+}
 #bg-vid{
   position: absolute;
   left: 0;
