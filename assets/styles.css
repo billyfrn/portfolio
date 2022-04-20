@@ -127,6 +127,7 @@ b {color: #c49048;}
 .half {
   width: 50%;
 }
+.swiper{overflow:hidden;}
 @media only screen and (max-width:500px){
   .sixty {
     width: 100%;
