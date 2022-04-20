@@ -128,6 +128,12 @@ b {color: #c49048;}
   width: 50%;
 }
 .swiper{overflow:hidden;}
+.modal .container.flex{
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
 @media only screen and (max-width:500px){
   .sixty {
     width: 100%;
