@@ -124,10 +124,16 @@ b {color: #c49048;}
   top: 0px;
   font-size: 3em;
 }
+.half {
+  width: 50%;
+}
 @media only screen and (max-width:500px){
   .sixty {
     width: 100%;
     padding: 0 20px;
+  }
+  .half {
+    width: 100%;
   }
   .forty{width:100%;}
   .flex{
