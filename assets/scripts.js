@@ -14,3 +14,15 @@ $('.tile').on('click',function(){
 $('.close').on('click',function(){
   $('.modal').removeClass('active');
 })
+
+const swiper = new Swiper('.swiper-ag', {
+  direction: 'horizontal',
+  loop: true,
+  pagination: {
+    el: '.swiper-pagination',
+  },
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+});
