@@ -181,4 +181,6 @@ b {color: #c49048;}
     flex-wrap: wrap;
     flex-direction: column-reverse;
   }
+  .tile{width:100%;font-size:5em;}
+  .gallery .flex{flex-direction: column;}
 }
