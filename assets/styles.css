@@ -29,6 +29,7 @@ h1 {
 }
 h2{font-size: 2.5em;}
 b {color: #c49048;}
+.sixty a {color:#c49048;text-decoration: none;}
 .swiper-slide a {
   color: #c49048;
   text-align: center;
